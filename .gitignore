@@ -5,3 +5,4 @@ results/best_RandomForestRegressor_mod_rstate_3.pkl
 results/best_KNeighborsRegressor_mod_rstate_1.pkl
 results/best_KNeighborsRegressor_mod_rstate_2.pkl
 results/best_KNeighborsRegressor_mod_rstate_3.pkl
+.DS_Store
