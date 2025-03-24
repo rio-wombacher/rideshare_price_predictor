@@ -8,4 +8,4 @@ Our data is taken from the Kaggle dataset “Uber & Lyft Cab prices” which gat
 
 We are trying to build a regression model because our target variable, price, is continuous in nature. The dataset contains features about the ride itself (distance, source, destination, etc.), along with information on the type of car chosen for the ride, the time of the ride, and some brief weather information for the day.  In total, we began with 693,071 “rides” and 15 features. 
 
-#Note the data is contained in the data folder in a zipped format and some of the saved models were too big to store on github so they are contained in the gitignore file, but running the notebook locally should still work.
+#Note the data is contained in the data folder in a zipped format and some of the saved models were too big to store on github so they are contained in the gitignore file, but running the notebook locally should still work. The project report contains explanations on each step of the EDA, pipeline, modeling, and evaluation processes.
